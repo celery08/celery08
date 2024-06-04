@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ccelery</h1>
-<h3 align="center">A lazy, unguided, and sleepy-head programmer.</h3>
+<h3 align="center"> unguided and sleepy-head programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccelery&label=Profile%20views&color=0e75b6&style=flat" alt="ccelery" /> </p>
 
